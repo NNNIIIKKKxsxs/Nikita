@@ -90,3 +90,25 @@ Sequence Diagram
 | FR-05  | Додати книгу           | Admin, Book      |
 | FR-06  | Редагувати книгу       | Admin, Book      |
 | FR-07  | Видалити книгу         | Admin, Book      |
+
+
+Library Management System
+Functional Requirements
+FR-01 View books
+
+FR-02 Search books
+
+FR-03 View book information
+
+FR-04 Borrow books
+
+FR-05 Add books
+
+FR-06 Edit books
+
+FR-07 Delete books
+
+Files
+library.py
+test_library.py
+test-design.md
