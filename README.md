@@ -112,3 +112,7 @@ Files
 library.py
 test_library.py
 test-design.md
+Project created for laboratory work.
+Code review was performed.
+Unit tests were added.
+Refactoring improvements applied.
