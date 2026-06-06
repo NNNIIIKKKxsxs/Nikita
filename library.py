@@ -19,7 +19,7 @@ class Library:
         for book in self.books:
             if book.lower() == title.lower():
                 return True
-
+return any(book.lower() == title.lower() for book in self.books)
         return False
 
     def borrow_book(self, title):
