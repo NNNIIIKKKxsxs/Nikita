@@ -1,3 +1,4 @@
+Refactored version
 class Library:
     def init(self):
         self.books = []
